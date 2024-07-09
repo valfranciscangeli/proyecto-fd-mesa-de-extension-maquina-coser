@@ -1,8 +1,9 @@
-Este repositorio contiene el proyecto final del curso de Fabricación Digital. Se diseñó una mesa de extención especificamente para la maquina de coser caser Janome Sakura 95, por lo que las medidas y alturas se hacen en considerqcion a esto. 
+# Proyecto de mesa de extensión para maquina de coser casera
 
-Para la fabricación se utilizaron 2 técinicas: corte de madera en router cnc e impresión 3D.
-Se trabajó el proyecto en el software Fusion 360.
+Este repositorio contiene el proyecto final del curso de Fabricación Digital. Se diseñó una mesa de extención especificamente para la maquina de coser caser Janome Sakura 95. 
 
+
+# Archivos del proyecto
 En el repositorio se encuentran las siguientes carpetas y archivos:
 
 - origen
@@ -11,3 +12,21 @@ En el repositorio se encuentran las siguientes carpetas y archivos:
     - router_cnc
 
     - ensamble
+        ProyectoFinal: archivo del ensamble final que referencia al resto de archivos.
+
+# Diseño
+Se realizó el diseño del proyecto en el software Fusion 360.
+
+
+# Piezas, materiales y procesos de fabricación
+
+
+
+# Ensamble
+
+
+
+# Material extra
+
+
+
