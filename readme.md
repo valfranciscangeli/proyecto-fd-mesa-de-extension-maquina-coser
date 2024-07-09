@@ -28,7 +28,7 @@ En el repositorio se encuentran las siguientes carpetas y archivos:
     - **mesa top**: carpeta que contiene los archivos de la pieza número 7
     - **posterior**: carpeta que contiene los archivos de la pieza número 3
     - **tapa**: carpeta que contiene los archivos de la pieza número 5
-- `Piezas.pdf`: archivo que muestra el número y tabla de piezas generada por el software Fusion360.
+  - `Piezas.pdf`: archivo que muestra el número y tabla de piezas generada por el software Fusion360.
 
 ## Diseño
 
