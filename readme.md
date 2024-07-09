@@ -37,6 +37,7 @@ Se realizó el diseño del proyecto en el software Fusion 360. Los archivos se e
 Se diseñó una mesa a medida de la maquina de coser Janome Sakura 95. El diseño contempla un cajón en la base que permite guardar accesorios de la máquina e implementos de costura.
 
 Se numeran las piezas como sigue:
+
 <img src="/img/piezas_numeradas.png" alt="Tabla de piezas, materiales y procesos" width="500">
 
 
