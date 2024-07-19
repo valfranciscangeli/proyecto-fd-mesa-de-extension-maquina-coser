@@ -34,12 +34,11 @@ En el repositorio se encuentran las siguientes carpetas y archivos:
 
 Se realizó el diseño del proyecto en el software Fusion 360. Los archivos se encuentran ordenados en las carpetas descritas anteriormente.
 
-Se diseñó una mesa a medida de la maquina de coser Janome Sakura 95. El diseño contempla un cajón en la base que permite guardar accesorios de la máquina e implementos de costura.
+Se diseñó una mesa a medida de la máquina de coser Janome Sakura 95. El diseño contempla un cajón en la base que permite guardar accesorios de la máquina e implementos de costura.
 
 Se numeran las piezas como sigue:
 
 <img src="/img/piezas_numeradas.png" alt="Tabla de piezas, materiales y procesos" width="500">
-
 
 ## Piezas, Materiales y Procesos de Fabricación
 
@@ -48,7 +47,10 @@ Se numeran las piezas como sigue:
 ## Costos
 
 Para realizar toda la estructura de la mesa se necesita:
-- Una plancha de terciado de 12mm. Se necesita solo la mitad de la plancha estándar de 1,2x2,4m. El valor aproximado es de <a href="https://www.imperial.cl/terciados/terciado-estructural-12mm-120x240mt/product/76017">17.990CLP</a>.
+- Una plancha de terciado de 12mm. Se necesita solo la mitad de la plancha estándar de 1,2x2,4m. El valor aproximado es de <a href="https://www.imperial.cl/terciados/terciado-estructural-12mm-120x240mt/product/76017">17.990 CLP</a>.
+- 5 tornillos de 3x10mm. Un pack de 20 unidades costó 750 CLP.
+- Filamento PLA. Las 4 piezas impresas en 3D utilizan 41g de filamento en total. Calculando en base a la referencia de <a href="https://cicla3d.cl/products/cicla-pla?variant=46081855357178">12.390 CLP</a> por Kg, el costo total de la impresión es de 508 CLP.
+- Cola fría de madera, como pegamento. Se utiliza una cantidad muy pequeña, pero un sachet de 500g se encuentra a <a href="https://www.idepal.cl/cola-fria-doy-pack-500gr">1.990 CLP</a>.
 
 ## Ensamble
 
@@ -67,27 +69,27 @@ Vista inferior.
 
 3. Unir con tornillos de 3x10mm la pieza 9 a la parte inferior de la pieza 5.
 El tirador debe ir con el orificio de 2 profundidades hacia arriba, para ahí insertar el tornillo.
-<img src="img/posicion_tirador.jpg" alt="Union de tirador" width="200">
+<img src="img/posicion_tirador.jpg" alt="Unión de tirador" width="200">
 Tornillo 3x10mm.
-<img src="img/tornillo_usado.jpg" alt="tornillo usado" width="200">
+<img src="img/tornillo_usado.jpg" alt="Tornillo usado" width="200">
 Así queda:
-<img src="img/tapa_con_tirador.jpg" alt="tapa" width="200">
-4. Unir con tornillos de 3x10mm las piezas 8 a la parte inferior de la pieza 7, siguiendo la distancia del diseño del proyecto. Cortar un cilindro de madera de 30mm de diametro en 3 piezas de largo 6.3mm, para utilizar como pieza 10. Luego insertar estas piezas en cada adaptardor (pieza 8).
+<img src="img/tapa_con_tirador.jpg" alt="Tapa" width="200">
+4. Unir con tornillos de 3x10mm las piezas 8 a la parte inferior de la pieza 7, siguiendo la distancia del diseño del proyecto. Cortar un cilindro de madera de 30mm de diámetro en 3 piezas de largo 6.3mm, para utilizar como pieza 10. Luego insertar estas piezas en cada adaptador (pieza 8).
 Adaptador atornillado:
-<img src="img/adaptador_pata.jpg" alt="adaptador" width="200">
-Agragar pieza 10:
-<img src="img/posicion_adaptador_y_patas.jpg" alt="adaptador" width="200">
-5. Deslizar la pieza 9 con la pieza 5 hacia abajo por las ranuras del cajon base armado en el paso 1.
-<img src="img/tapa_corredera.jpg" alt="tapa" width="200">
-<img src="img/acople_de_tapa_en_caja_base.jpg" alt="acople" width="200">
+<img src="img/adaptador_pata.jpg" alt="Adaptador" width="200">
+Agregar pieza 10:
+<img src="img/posicion_adaptador_y_patas.jpg" alt="Adaptador" width="200">
+5. Deslizar la pieza 9 con la pieza 5 hacia abajo por las ranuras del cajón base armado en el paso 1.
+<img src="img/tapa_corredera.jpg" alt="Tapa" width="200">
+<img src="img/acople_de_tapa_en_caja_base.jpg" alt="Acople" width="200">
 
 6. Lijar toda la pieza con lija de madera hasta que la superficie sea suave, para no enganchar la tela.
 7. Opcional: agregar bases de goma antideslizantes.
-<img src="img/antideslizante.jpg" alt="Gomas antideslizante" width="200">
+<img src="img/antideslizante.jpg" alt="Gomas antideslizantes" width="200">
 Patas:
-<img src="img/detalle_pata.jpg" alt="Gomas antideslizante" width="200">
+<img src="img/detalle_pata.jpg" alt="Patas" width="200">
 Cajón vista inferior:
-<img src="img/detalle_tapa_y_tirador_vista_inferior.jpg" alt="Gomas antideslizante" width="200">
+<img src="img/detalle_tapa_y_tirador_vista_inferior.jpg" alt="Cajón vista inferior" width="200">
 
 ## Sugerencias para mejorar el proyecto
 - Cortar la pieza 7 en una lámina de acrílico para tener una superficie completamente lisa y una mesa más estética.
@@ -96,4 +98,3 @@ Cajón vista inferior:
 ## Material Extra
 
 En la carpeta img se adjuntan imágenes del proceso incluyendo las que se encuentran en este archivo.
-
