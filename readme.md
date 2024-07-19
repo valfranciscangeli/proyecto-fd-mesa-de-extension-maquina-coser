@@ -2,6 +2,8 @@
 
 Este repositorio contiene el proyecto final del curso de Fabricación Digital. Se diseñó una mesa de extensión específicamente para la máquina de coser casera Janome Sakura 95.
 
+<img src="img/mesa_final.gif" alt="mesa completa">
+
 Las explicaciones sobre las piezas se basan en el documento `Piezas.pdf`, que muestra el número de pieza de cada parte del diseño.
 
 ## Resultado
@@ -51,7 +53,7 @@ Para realizar toda la estructura de la mesa se necesita:
 - 5 tornillos de 3x10mm. Un pack de 20 unidades costó 750 CLP.
 - Filamento PLA. Las 4 piezas impresas en 3D utilizan 41g de filamento en total. Calculando en base a la referencia de <a href="https://cicla3d.cl/products/cicla-pla?variant=46081855357178">12.390 CLP</a> por Kg, el costo total de la impresión es de 508 CLP.
 - Cola fría de madera, como pegamento. Se utiliza una cantidad muy pequeña, pero un sachet de 500g se encuentra a <a href="https://www.idepal.cl/cola-fria-doy-pack-500gr">1.990 CLP</a>.
-- Barra de madera (cilindro) de 30mm. Se utilizó en total menos de 25cm en total de la barra. La única referencia de precio encontrada fue de de 2 barras de 30mmx1mt a <a href="https://articulo.mercadolibre.cl/MLC-536082012-barras-de-madera-de-coihue-lisas-30mm-x-1mt-2-u-_JM#position%3D15%26search_layout%3Dstack%26type%3Ditem%26tracking_id%3Daf9cde12-9041-4548-b144-a8558abbf742">12.800CLP</a>, sin embargo, se puede reutilizar un palo de escoba o cortina (mi caso) o imprimir la pieza en 3D.
+- Barra de madera (cilindro) de 30mm. Se utilizó en total menos de 25cm en total de la barra. La única referencia de precio encontrada fue de de 2 barras de 30mmx1mt a <a href="https://articulo.mercadolibre.cl/MLC-536082012-barras-de-madera-de-coihue-lisas-30mm-x-1mt-2-u-_JM#position%3D15%26search_layout%3Dstack%26type%3Ditem%26tracking_id%3Daf9cde12-9041-4548-b144-a8558abbf742">12.800 CLP</a>, sin embargo, se puede reutilizar un palo de escoba o cortina (mi caso) o imprimir la pieza en 3D.
 
 ## Ensamble
 
