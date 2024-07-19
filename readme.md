@@ -45,6 +45,11 @@ Se numeran las piezas como sigue:
 
 <img src="/img/tabla_de_piezas_materiales_y_procesos.png" alt="Tabla de piezas, materiales y procesos" width="500">
 
+## Costos
+
+Para realizar toda la estructura de la mesa se necesita:
+- Una plancha de terciado de 12mm. Se necesita solo la mitad de la plancha estándar de 1,2x2,4m. El valor aproximado es de <a href="https://www.imperial.cl/terciados/terciado-estructural-12mm-120x240mt/product/76017">17.990CLP</a>.
+
 ## Ensamble
 
 El ensamble general se encuentra en el archivo de `proyecto_final`.
@@ -84,6 +89,9 @@ Patas:
 Cajón vista inferior:
 <img src="img/detalle_tapa_y_tirador_vista_inferior.jpg" alt="Gomas antideslizante" width="200">
 
+## Sugerencias para mejorar el proyecto
+- Cortar la pieza 7 en una lámina de acrílico para tener una superficie completamente lisa y una mesa más estética.
+- Agregar un soporte para cono de hilo de tamaño normal en la parte trasera de la pieza 7.
 
 ## Material Extra
 
